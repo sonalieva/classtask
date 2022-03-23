@@ -1,0 +1,14 @@
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.exe
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.deps.json
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.runtimeconfig.json
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.runtimeconfig.dev.json
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.dll
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\bin\Debug\netcoreapp3.1\taskclass.pdb
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.AssemblyInfo.cs
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.dll
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.pdb
+C:\Users\user\Downloads\PortableGit\BP202\taskclass\taskclass\obj\Debug\netcoreapp3.1\taskclass.genruntimeconfig.cache
